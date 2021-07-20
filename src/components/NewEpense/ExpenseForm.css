@@ -1,0 +1,18 @@
+.expense-controls{
+    display: flex;
+
+    overflow: hidden;
+
+}
+
+.expense-control{
+    width: 50%;
+
+    padding: 5px;
+}
+.expense-control input{
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    height: 1.5rem;
+    margin-left: 4px;
+}
